@@ -9,9 +9,14 @@ Local time, country, city name, latitude, longitude, local average time.
 Date of the forecast day, sunset time, sunrise time.
 It outputs felt temperature °C, felt temperature °F, probability of cloudiness, wind force, humidity, probability of rain, probability of snowfall, pressure.
 
-https://user-images.githubusercontent.com/65858349/164997428-f79b6bb7-29c9-479a-814d-f555d5dd922d.mp4
+[Exception Handling]
 
-https://user-images.githubusercontent.com/65858349/164997437-db008b38-493c-4d23-b574-1cb70ff35ea0.mp4
+If the number of days weather forecast is entered less than zero, it gives an error and writes it on the screen.
+"The day connot be less than zero."
 
-https://user-images.githubusercontent.com/65858349/164997442-40bf1c74-c47b-4be3-9dd3-4e785fb3fbec.mp4
 
+![foreCast](https://user-images.githubusercontent.com/65858349/165000544-3153f012-ca4b-4d15-b7c7-63911316ebd6.gif)
+
+![current](https://user-images.githubusercontent.com/65858349/165000553-7bb254db-3c7b-479d-98dd-4f144d30b109.gif)
+
+![exceptionHandling](https://user-images.githubusercontent.com/65858349/165000566-26213e86-9a93-4d0e-8fb0-1b87cb19a989.gif)
