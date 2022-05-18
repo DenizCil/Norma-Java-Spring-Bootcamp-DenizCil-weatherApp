@@ -1,4 +1,5 @@
-# NormaBootcampWeatherApp
+# third-week-homework-DenizCil
+weatherApp
 
 [ Location ]
 
