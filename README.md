@@ -1,5 +1,4 @@
-# third-week-homework-DenizCil
-weatherApp
+# third-week-homework-weatherApp-DenizCil
 
 [ Location ]
 
